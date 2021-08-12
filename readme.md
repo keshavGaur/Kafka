@@ -8,4 +8,4 @@ docker-compose up
 ## Run
 ### npm install
 ### npm run consume
-### npm run publish <Name>
+### npm run publish '<Name>'
